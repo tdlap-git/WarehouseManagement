@@ -1,0 +1,22 @@
+# Compiled files
+*.class
+out/
+bin/
+
+# IDE files
+.project
+.classpath
+.settings/
+*.iml
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Python scripts
+*.py
+
+# SQL backup (bin file only)
+*.bak
